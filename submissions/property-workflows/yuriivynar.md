@@ -6,7 +6,7 @@
 - Команда: property-workflows
 - GitHub-логін: yuriivynar
 - Ваше репо: https://github.com/yuriivynar/property-workflows
-- SHA: d576e80372aadbbdf41733e783fd9b21745b8627
+- SHA: 0d3516a2224c0c1cfc8f79a83464a3f093703cd1
 - Репо вимог PM: https://github.com/solomchaak/property-workflows-spec
 - Прод-URL: https://property-workflows-eta.vercel.app
 
@@ -18,11 +18,11 @@
 
 - Рядок «Вимоги:» з `docs/conformance.md` на SHA: Вимоги: https://github.com/solomchaak/property-workflows-spec · джерело: issues · знімок 2026-10-21
 - Перший PR «Оновлення вимог»: https://github.com/yuriivynar/property-workflows/pull/2
-- Журнал `docs/spec-reading.md`: https://github.com/yuriivynar/property-workflows/blob/d576e80372aadbbdf41733e783fd9b21745b8627/docs/spec-reading.md
+- Журнал `docs/spec-reading.md`: https://github.com/yuriivynar/property-workflows/blob/0d3516a2224c0c1cfc8f79a83464a3f093703cd1/docs/spec-reading.md
 - Питання в репо PM (щонайменше 3, з них щонайменше 1 — власне issue): https://github.com/solomchaak/property-workflows-spec/issues/13, https://github.com/solomchaak/property-workflows-spec/issues/14, https://github.com/solomchaak/property-workflows-spec/issues/15, https://github.com/solomchaak/property-workflows-spec/issues/10#issuecomment-6288873114
 - PR «Специфікація» з перекладом першого зрізу: https://github.com/yuriivynar/property-workflows/pull/3 — зміна `add-workflow-runs`: кожен AC PM (AC-RUN-01…09, AC-TASK-01…09) — сценарій з тим самим ID, archive у гілці, 18 рядків матриці
-- Зміна `impl-<зріз>`: https://github.com/yuriivynar/property-workflows/tree/d576e80372aadbbdf41733e783fd9b21745b8627/openspec/changes/archive/2026-10-20-impl-workflow-runs (план — PR https://github.com/yuriivynar/property-workflows/pull/4, archive — в останньому PR задачі)
-- PR-и задач «Реалізація» (щонайменше 2): https://github.com/yuriivynar/property-workflows/pull/5, https://github.com/yuriivynar/property-workflows/pull/6 (після уточнень PM — ще https://github.com/yuriivynar/property-workflows/pull/10) — PM опублікував перші вимоги 19.10, пізніше за кінець 16.10, тож для C достатньо одного; злито два. Запис екрана — https://github.com/yuriivynar/property-workflows/pull/6#issuecomment-6292778564
+- Зміна `impl-<зріз>`: https://github.com/yuriivynar/property-workflows/tree/0d3516a2224c0c1cfc8f79a83464a3f093703cd1/openspec/changes/archive/2026-10-20-impl-workflow-runs (план — PR https://github.com/yuriivynar/property-workflows/pull/4, archive — в останньому PR задачі)
+- PR-и задач «Реалізація» (щонайменше 2): https://github.com/yuriivynar/property-workflows/pull/5, https://github.com/yuriivynar/property-workflows/pull/6 (після уточнень PM — ще https://github.com/yuriivynar/property-workflows/pull/10; доопрацювання за CodeRabbit — https://github.com/yuriivynar/property-workflows/pull/11) — PM опублікував перші вимоги 19.10, пізніше за кінець 16.10, тож для C достатньо одного; злито два. Запис екрана — https://github.com/yuriivynar/property-workflows/pull/6#issuecomment-6292778564
 - PR «Оновлення вимог» після уточнень PM: https://github.com/yuriivynar/property-workflows/pull/8 — знімок 2026-10-21 після відповідей PM на solomchaak/property-workflows-spec#4–#18: 12 нових AC, 4 змінені
 - PR «Специфікація» зі змінами після уточнень: https://github.com/yuriivynar/property-workflows/pull/9 — зміна `clarify-workflow-runs`: MODIFIED AC-TASK-01, AC-TASK-02, AC-TASK-04, AC-TASK-07; ADDED AC-RUN-10…12, AC-TASK-10…18; реалізація змін — https://github.com/yuriivynar/property-workflows/pull/10
 - AC, які ви реалізували: AC-RUN-01…AC-RUN-12, AC-TASK-01…AC-TASK-18 — усі 30 «реалізовано» (змінені AC-TASK-01/02/04/07 і нові AC — у PR https://github.com/yuriivynar/property-workflows/pull/10)
